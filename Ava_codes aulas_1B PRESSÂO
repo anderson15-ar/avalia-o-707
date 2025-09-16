@@ -1,0 +1,7 @@
+CREAT TABLE alunos (  
+Id_client INT Primary Key 
+name VACHAR(100)
+Idade  INT
+Local VACHAR(50)
+email VACHAR(50)
+telefone VACHAR(50) ;
